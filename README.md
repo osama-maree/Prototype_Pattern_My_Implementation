@@ -1,4 +1,4 @@
-# Prototype_Pattern_My_Implementation
+
 ## my Implementation of the prototype pattern in both types Shallow Clone and Deep Clone
 
 
